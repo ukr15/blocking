@@ -1,0 +1,10 @@
+.classpath
+.jsdtscope
+.project
+.settings
+target/maven-status/maven-compiler-plugin/compile/default-compile
+inputFiles.lst
+org.eclipse.wst.jsdt.core.javascriptValidator.launch
+pom.properties
+target
+src/main/resources
